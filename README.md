@@ -48,7 +48,7 @@ Selenium WebDriver, Java, TestNG
 BDD automation framework for Demo Web Shop application.
 
 🔗 Project Link  
-https://github.com/Saba-shaikh13/Demo_Web_Shop_Automation_Project
+https://github.com/Saba-shaikh13/Demo_Web_Shop_Project
 
 Technologies:
 Selenium WebDriver, Java, TestNG, Cucumber, Page Object Model
