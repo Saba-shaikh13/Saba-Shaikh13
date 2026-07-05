@@ -22,14 +22,16 @@ I have hands-on experience in building automation frameworks using Selenium WebD
 
 ## 🚀 Automation Testing Projects
 
-### 1️⃣ Swag Labs Automation Framework
-Automation testing for Swag Labs e-commerce application.
+### 1️⃣ Purchase Order Testing Project
 
-🔗 Project Link  
-https://github.com/Saba-shaikh13/swaglab_automation_testing_using_selenium_Testng_java
+Repository:
 
-Technologies:
-Selenium WebDriver, Java, TestNG, Maven
+https://github.com/Saba-shaikh13/Testing_purchage_order_module
+
+Test Plan
+Test Scenarios
+Test Cases
+Bug Report
 
 ---
 
